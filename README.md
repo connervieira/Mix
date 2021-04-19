@@ -11,7 +11,7 @@ Please note: Mix is a quick project I made in a few hours for my own personal us
 
 ## Description
 
-Blender is a fantastic FOSS program mainly used for 3D modeling. Its lightweight enough to be run on underpowered hardware while simultaneously having an extremely powerful feature set. However, when rendering 3D models, less powerful computers will almost certainly be lacking. Im short, you can work on Blender projects on underpowered devices just fine, but rendering and saving them will probably not be a great experience.
+Blender is a fantastic FOSS program mainly used for 3D modeling. Its lightweight enough to be run on underpowered hardware while simultaneously having an extremely powerful feature set. However, when rendering 3D models, less powerful computers will almost certainly be lacking. In short, you can work on Blender projects on underpowered devices just fine, but rendering and saving them will probably not be a great experience.
 
 This is where Mix comes in. Mix allows you to configure your desktop, laptop, or other Linux machine to have the ability to render remote projects. This allows you to create your project on a lightweight mobile device, then send it off to a more powerful computer over the internet so it can be rendered.
 
